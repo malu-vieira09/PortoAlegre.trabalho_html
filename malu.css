@@ -1,0 +1,63 @@
+.container  {
+    margin: 0 auto;
+    width: 960px;}
+    body {
+        font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,sans-serif;
+        line-height: 1.6;}
+        .place {
+            border: 1px salmon;
+            border-color: rgb(255, 242, 127);
+            margin-bottom: 20px;
+            padding: 10px;}
+            .place h2 {
+                border-bottom: 1px dashed darkseagreen;
+                margin: 0;}
+                body {
+                    background: #FFF1D6 url(images/noise.png);
+                    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+                    line-height: 1.6;}
+                    .place {
+                        background-color: #FFF1D6;
+                        border: 1px solid #ffffff;
+                        border-color: rgb(255, 145, 0) #ffdc95 rgb(255, 145, 0) #ffdc95;
+                        margin-bottom: 20px;
+                        padding: 10px;}
+                        h1 a {
+                            color: #00ff0d;
+                            text-decoration: rgb(103, 235, 15);}
+                            .place {
+                                background-color: #FFF;
+                                border: 1px solid #CCC;
+                                border-color: #CCC #999 #999 #CCC;
+                                margin-bottom: 20px;
+                                padding:10}
+                                h1 a {
+                                    background-color: #7E9F19;
+                                    text-emphasis: none;}
+                                    h1 a:hover {
+                                        background-color: #7E9F19;
+                                        color: #FFF;}
+                                        .clear {
+                                            clear: both;}
+                                            
+                                                    .sidenote h3 {
+                                                    font-size: 16px;
+                                                    margin-top: 0;}
+                                                        .sidenote ol {
+                                                        font-size: 14px;}
+                                                        .places {
+                                                            float: left;
+                                                            width: 660px;
+                                                            }
+                                                            .sidenote{
+                                                                background-color: #FFFBE4;
+                                                                border: 1px solid #C9BC8F;
+                                                                float: right;
+                                                                padding: 10px;
+                                                                width: 260px;}                                
+                                                                
+                                                                
+                                                        
+                                                        
+                                                
+
